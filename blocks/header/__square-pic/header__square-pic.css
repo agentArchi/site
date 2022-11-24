@@ -1,0 +1,21 @@
+.header__square-pic {
+    height: 568px;
+    width: 568px;
+    background: #2f80ed;
+    position: absolute;
+    right: 0;
+    top: 64px;
+}
+    /*transition: transform 1.5s ease-out;
+    overflow: hidden;
+    animation: rotation 20s linear infinite;*/
+  
+
+  /*@keyframes rotation {
+    from {
+          transform: rotate(0deg);
+      }
+      to {
+          transform: rotate(360deg);
+      }
+    }*/
